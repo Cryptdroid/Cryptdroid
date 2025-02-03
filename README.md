@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Streamlit Framework<br>🌱 I’m currently learning Data Structure and Algorithms<br>💬 Ask me about Python<br>⚡ Fun fact:- I'm an Anime fan and a gamer too! 
+🔭 I’m currently working on Scikit-Learn based prediction models<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about Python<br>⚡ Fun fact:- I'm an Anime fan and a gamer too! 
 
 
 ## 🌐 Socials:
